@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Maturità 2026</title>
+    
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #24292e;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f6f8fa;
+        }
+        .nav-container {
+            margin-bottom: 30px;
+            padding: 10px 0;
+            border-bottom: 1px solid #e1e4e8;
+        }
+        /* Stile del pulsante Home */
+        .btn-home {
+            display: inline-block;
+            background-color: #0366d6; /* Un blu classico e pulito */
+            color: white !important;
+            padding: 8px 16px;
+            border-radius: 6px;
+            text-decoration: none !important;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .btn-home:hover {
+            background-color: #005cc5;
+        }
+        .main-content {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 12px;
+            color: #6a737d;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="nav-container">
+        <a href="{{ site.baseurl }}/" class="btn-home">🏠 Torna alla Home</a>
+    </div>
+
+    <div class="main-content">
+        {{ content }}
+    </div>
+
+    <footer>
+        <p>Appunti di {{ site.author }} - Creato con GitHub Pages</p>
+    </footer>
+
+</body>
+</html>
