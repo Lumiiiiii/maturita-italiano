@@ -50,4 +50,15 @@ Dato che Jekyll legge anche l'HTML, puoi usare questi per lo studio:
 * **Evidenziare:** `<mark>Testo</mark>` -> <mark>Testo</mark>
 * **Checkbox:** `- [ ] Da studiare` / `- [x] Fatto!`
 
+## 🎯 Collegamenti a punti specifici (Ancore)
 
+**1. Ai Titoli (Automatico):**
+Scrivi il titolo in minuscolo sostituendo gli spazi con i trattini.
+* Esempio: `[Vai alla Poetica](#poetica)`
+
+**2. A una parola qualsiasi (Manuale):**
+* **Punto di arrivo:** `<a id="nome-scelto"></a>Parola`
+* **Link di partenza:** `[Vai lì](#nome-scelto)`
+
+**3. Da un'altra pagina:**
+* `[Vai a Dante (Inferno)](../dante/index.html#inferno)`
