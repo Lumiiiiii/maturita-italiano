@@ -7,12 +7,12 @@ title: Italo Svevo
 
 Ettore Schmitz (vero nome di Svevo) rappresenta il passaggio alla modernità nella letteratura italiana della prima metà del '900.
 
-## 📍 Il Contesto: Trieste
+## Il Contesto: Trieste
 * **Città di frontiera:** Trieste è il luogo dove sviluppa la sua poetica. È un punto di incontro tra cultura italiana, tedesca ed ebraica.
 * **Formazione non letteraria:** Non nasce come scrittore "puro"; lavorava in banca, esperienza che riversa nei suoi personaggi (spesso impiegati).
 * **Lingua e Stile:** Scrive in modo **"secco e asciutto"** perché non ha un lessico accademico esteso. Questo stile è stato spesso criticato dai contemporanei, abituati alla retorica.
 
-## 🧠 Concetti Chiave per l'Esame
+## Concetti Chiave per l'Esame
 
 ### L'Inetto (Incapace, Inadatto)
 È il protagonista assoluto del mondo sveviano. L'inetto è colui che è incapace di prendere in mano la propria vita.
@@ -28,7 +28,7 @@ Ettore Schmitz (vero nome di Svevo) rappresenta il passaggio alla modernità nel
 
 ---
 
-## 📚 Le Opere: Il ciclo dei primi romanzi
+## Le Opere: Il ciclo dei primi romanzi
 
 ### 1. Una vita (1892)
 * **Protagonista:** Alfonso Nitti.
@@ -49,6 +49,6 @@ Ettore Schmitz (vero nome di Svevo) rappresenta il passaggio alla modernità nel
 
 ---
 
-## 📝 Note per la Prof
+## Note per la Prof
 * **Struttura Ottocentesca:** In questi primi due romanzi, Svevo segue ancora criteri tradizionali: narrazione cronologica e descrizioni dettagliate di luoghi e persone.
 * **Il passaggio alla "Coscienza di Zeno":** Sarà solo nel 1923 che Svevo romperà questa struttura introducendo il "tempo misto" e la psicoanalisi.
