@@ -1,4 +1,6 @@
-title: "Appunti di Letteratura Italiana"
-author: "Il tuo nome"
-description: "Una raccolta di appunti di letteratura divisi per autore."
-theme: jekyll-theme-cayman # Un bellissimo tema integrato nativamente nelle GitHub Pages
+title: "Appunti Maturità 2026"
+author: "Lumi"
+description: "Raccolta di appunti per la maturità dal design minimale."
+
+# Disabilitiamo esplicitamente i temi di GitHub Pages per usare il nostro CSS custom
+theme: null
