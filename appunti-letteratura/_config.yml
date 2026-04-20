@@ -1,0 +1,11 @@
+title: "Appunti di Letteratura Italiana"
+author: "Il tuo nome"
+description: "Una raccolta di appunti di letteratura divisi per autore."
+theme: jekyll-theme-cayman # Un bellissimo tema integrato in GitHub Pages
+
+# Definiamo una 'collection' chiamata appunti.
+# Questo è molto più ordinato rispetto a usare i post blog tradizionali.
+collections:
+  appunti:
+    output: true
+    permalink: /appunti/:path/
